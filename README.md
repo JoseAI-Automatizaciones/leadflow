@@ -1,15 +1,17 @@
-# LeadFlow
+# Pulso IA
 
-Prototipo navegable para presentar a equipos de ventas y operaciones una nueva forma de decidir el siguiente paso de cada lead.
+Prototipo navegable para abrir una conversación sobre cómo la IA transforma tareas y habilidades.
 
-## Problema
+## Contexto
 
-Los leads llegan por diferentes canales y el seguimiento queda sujeto a la memoria de cada vendedor. LeadFlow propone un ritual visible: priorizar un lead, preparar el objetivo de contacto y activar un plan claro.
+Pensado para presentar a liderazgo, RR. HH. o formación. En cuatro decisiones prediseñadas, el usuario recibe un índice educativo de exposición de tareas a automatización y un plan de defensa.
+
+No predice despidos ni empleabilidad. Es una herramienta de conversación para identificar dónde conviene desarrollar criterio, relación humana y supervisión de IA.
 
 ## Flujo
 
-1. Priorizar un lead según señales de intención.
-2. Elegir el objetivo del siguiente contacto.
-3. Revisar un plan de acción y marcarlo como preparado.
+1. Inicio con la promesa del diagnóstico.
+2. Cuatro preguntas de selección rápida.
+3. Resultado visual y acciones sugeridas.
 
-No tiene backend: es un prototipo para comunicar la propuesta y recoger reacción antes de una reunión.
+Sin backend ni datos reales.

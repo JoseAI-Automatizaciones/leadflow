@@ -1,7 +1,7 @@
-# LeadFlow — contexto
+# Pulso IA — contexto
 
-Proyecto 5 de Platzi: prototipo navegable sin backend para proponer una mejora a equipos comerciales y de operaciones.
+Proyecto 5 de Platzi. Prototipo navegable sin backend para comunicar una idea antes de una reunión.
 
-Concepto: LeadFlow convierte señales de intención de un lead en un siguiente paso preparado. El flujo tiene tres pantallas: priorizar, preparar y activar.
+Concepto: diagnóstico educativo de exposición de tareas a automatización. Cuatro preguntas con respuestas prediseñadas producen un índice visual y acciones sugeridas. No afirmar que predice despidos o empleabilidad real.
 
-Stack: HTML, CSS y JavaScript sin dependencias. Los datos son ficticios y viven en app.js. No convertirlo en CRM funcional: el objetivo es comunicar la propuesta antes de una reunión.
+Stack: HTML, CSS y JavaScript sin dependencias. Datos y lógica de puntuación ficticios en app.js. Mantener la experiencia dinámica, visual y accesible.
